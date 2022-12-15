@@ -4,7 +4,7 @@ This project demonstrates how to use [Magic Link](https://magic.link/) with web3
 
 Magic Link enables users to connect to your dApp using **email**, **phone number**, or **social login**.
 
-**Check out the Demo here**: https://magic-link.web3sdkio-example.com
+**Check out the Demo here**: https://magic-link.web3sdkio-template.com
 
 ## Tools:
 
@@ -90,4 +90,4 @@ const disconnectWallet = useDisconnect();
 
 ## Join our Discord!
 
-For any questions, suggestions, join our discord at [https://discord.gg/web3sdkio](https://discord.gg/web3sdkio).
+For any questions, suggestions, join our discord at [https://discord.gg/n33UhsfUKB](https://discord.gg/n33UhsfUKB).
